@@ -2,9 +2,6 @@
 
 A fast-paced, 2D arcade-style survival game built using Vanilla JavaScript and HTML5 Canvas. Navigate through obstacles, collect power-ups, and survive as long as possible to achieve a high score.
 
-## 🚀 Live Demo
-[Insert your GitHub Pages Link Here]
-
 ## 🎮 How to Play
 - **Objective:** Dodge incoming obstacles and stay on the road for as long as possible.
 - **Controls:** Use the **Spacebar** or **Up Arrow** to jump and avoid hazards.
